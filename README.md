@@ -1,9 +1,11 @@
 
-###**Overview**:
+##**Overview**:
+
 This is a simple Android Calculator application developed using Java and XML in Android Studio.
 The app performs basic arithmetic operations with a user-friendly interface and provides instant feedback using Toast messages and AlertDialogs.
 
-###**Features**:
+##**Features**:
+
 ➕ Addition
 ➖ Subtraction
 ✖️ Multiplication
@@ -13,19 +15,22 @@ The app performs basic arithmetic operations with a user-friendly interface and 
 📢 Toast messages for user actions
 🪟 Alert dialogs for operations, results, and errors
 
-###**Screens & UI**:
+##**Screens & UI**:
+
 Displays input and results in a TextView
 Uses RelativeLayout for button arrangement
 Large, easy-to-use buttons
 Clean and simple design
 
-###**Technologies Used**:
+##**Technologies Used**:
+
 Language: Java
 UI Design: XML
 IDE: Android Studio
 Minimum SDK: Compatible with standard Android devices
 
-###**How It Works**:
+##**How It Works**:
+
 1.User presses number buttons to enter values
 2.Selects an operation (+, −, ×, ÷)
 3.Enters the second number
@@ -33,7 +38,8 @@ Minimum SDK: Compatible with standard Android devices
 5.Result is displayed along with a Toast and AlertDialog
 6.CLEAR resets the calculator
 
-###**Error Handling**:
+##**Error Handling**:
+
 Prevents division by zero
 Displays error messages using dialogs
 Ensures operation selection before calculation
